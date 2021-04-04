@@ -10,22 +10,21 @@ Working with the Colorado Elections Office in collecting votes and results of th
 5. The winner of the election based on popular vote.
 
 ## Resources
-Our information was gathered on Election Night, election_results.csv. Our choice of software to run the data is Python 3.6.1 and Visual Studio Code, 1.30.1. 
-
+Data received via file election_results.csv.
+Software used is Python 3.6.1 and Visual Code Studio 1.30.1
 
 ## Summary of Results
-The analysis of the data received show the following results:
+The election for this race was held in a span of three counties; Arapahoe, Jefferson, and Denver. A total of 369,711 votes were cast for the following candidates:
+1. Charles Casper Stockham
+2. Diana DaGette
+3. Raymon Anthony Doane
 
--There were a total of 369,711 votes cast, gathered in 3 counties; Arapahoe, Denver and Jefferson.
--The three candidates running for office were
-    * Charles Casper Stockham
-    * Diana DeGette
-    * Raymon Anthony Doane
-The election results are as follows:
-    * Charles Casper Stockham received 23% of the total vote with 85, 213 votes
-    * Diana DeGette received 73.8% of the total vote with  272,892 votes
-    *Raymon Anthony Doane received 3.1% of the total vote with 11,606 votes.
-The winner of this election is:
+The elections results were:
+- Charles Casper Stockham received 23% of the total vote with 85, 213 votes
+- Diana DeGette received 73.8% of the total vote with  272,892 votes
+- Raymon Anthony Doane received 3.1% of the total vote with 11,606 votes.
+
+#### The winner of this election is:
 #### Diana DeGette with a total of 272,892 votes, 73.8% of the total vote
 
 ## Challenge Overview
